@@ -5,7 +5,7 @@
 // @description  A few improvements to F1TV
 // @author       Adrian Sale
 // @match        https://f1tv.formula1.com/*
-// @sandbox		 'JavaScript'
+// @sandbox      'JavaScript'
 // @grant        GM_addElement
 // @grant        unsafeWindow
 // @require 	 https://code.jquery.com/jquery-3.6.0.min.js
