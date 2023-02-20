@@ -12,6 +12,7 @@ Userscript that adds to F1TV.
 You may have to allow F1TV website to open popups.
 
 ## Screenshots
-![#1](Screenshot.png)
-![#2](Screenshot2.png)
-![#3](Screenshot3.png)
+![#1](Screenshot3.png)
+![#2](Screenshot.png)
+![#3](Screenshot2.png)
+
