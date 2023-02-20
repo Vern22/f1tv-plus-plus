@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         F1TV+
-// @namespace    https://najdek.github.io/f1tv_plus/
+// @name         F1TV++
+// @namespace    https://github.com/Vern22/f1tv-plus-plus
 // @version      1.0
 // @description  A few improvements to F1TV
 // @author       Adrian Sale
