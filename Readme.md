@@ -10,3 +10,7 @@ Userscript that adds to F1TV.
 * Tampermonkey should detect userscript automatically. Click on "Install".
 
 You may have to allow F1TV website to open popups.
+
+## Screenshots
+[!(Screenshot.png)]
+[!(Screenshot2.png)]
