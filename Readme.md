@@ -1,5 +1,5 @@
 # F1TV++
-Userscript that adds to F1TV.
+Userscript that adds to F1TV. This was originally based on F1TV+ (https://github.com/najdek/f1tv_plus), but has had many changes
 
 ## Installation
 * Install the Tampermonkey extension for your browser:
